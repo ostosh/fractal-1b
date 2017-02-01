@@ -1,1 +1,1 @@
-module.exports = require('./dist/2.counter.js');
+export default from './src';
